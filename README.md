@@ -4,10 +4,10 @@ The project accepts List and implements reverse operation which results in rever
 
 ## Commands
 
--> compile the code
+compile the code
 
 `sbt compile`
 
--> execute unit test
+execute unit test
 
 `sbt test`
